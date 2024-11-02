@@ -1,4 +1,4 @@
-# TP-JAXRS
+# TP-JAX-RS
 
 ## Demonstration
 
